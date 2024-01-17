@@ -1,4 +1,4 @@
-# BuffItemFetcher for Game Marketplace
+# BuffItemFetcher for CSGO2 Market
 
 ## Overview
 `BuffItemFetcher` is a Python utility for fetching and analyzing item data from an online game marketplace. It is designed to retrieve item prices and liquidity details, focusing on items with specific attributes like phases or special features.
